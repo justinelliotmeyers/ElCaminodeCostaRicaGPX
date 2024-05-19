@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Wikiloc - https://www.wikiloc.com" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Wikiloc - Etapa Oficial 1a El Camino de Costa Rica pte 1 - Parismina a...</name>
+    <link href="https://www.wikiloc.com/hiking-trails/etapa-oficial-1a-el-camino-de-costa-rica-pte-1-parismina-a-laguna-perlas-2022-109084494">
+      <text>Etapa Oficial 1a El Camino de Costa Rica pte 1 - Parismina a... on Wikiloc</text>
+    </link>
+    <time>2022-04-26T00:17:17Z</time>
+  </metadata>
+  <trk>
+    <name>Etapa Oficial 1a El Camino de Costa Rica pte 1 - Parismina a...</name>
+    <cmt></cmt>
+    <desc></desc>
+    <trkseg>
+      <trkpt lat="10.305442" lon="-83.352094">
+        <ele>3.298</ele>
+        <time>2022-04-25T23:17:07Z</time>
+      </trkpt>
+      <trkpt lat="10.305459" lon="-83.351542">
+        <ele>3.615</ele>
+        <time>2022-04-25T23:23:27Z</time>
+      </trkpt>
+      <trkpt lat="10.305044" lon="-83.351517">
+        <ele>4.026</ele>
+        <time>2022-04-25T23:24:11Z</time>
+      </trkpt>
+      <trkpt lat="10.304980" lon="-83.351325">
+        <ele>4.009</ele>
+        <time>2022-04-25T23:24:33Z</time>
+      </trkpt>
+      <trkpt lat="10.305106" lon="-83.350034">
+        <ele>3.350</ele>
+        <time>2022-04-25T23:28:22Z</time>
+      </trkpt>
+      <trkpt lat="10.305528" lon="-83.348978">
+        <ele>4.539</ele>
+        <time>2022-04-25T23:31:03Z</time>
+      </trkpt>
+      <trkpt lat="10.305260" lon="-83.348476">
+        <ele>4.138</ele>
+        <time>2022-04-25T23:32:08Z</time>
+      </trkpt>
+      <trkpt lat="10.295020" lon="-83.339502">
+        <ele>5.739</ele>
+        <time>2022-04-25T23:54:50Z</time>
+      </trkpt>
+      <trkpt lat="10.272800" lon="-83.321863">
+        <ele>4.237</ele>
+        <time>2022-04-26T00:17:17Z</time>
+      </trkpt>
+    </trkseg>
+  </trk></gpx>
